@@ -1,0 +1,12 @@
+.text_resize{
+	resize: none;
+}
+.cabinet_title{
+	color:silver;
+	font-size:60px;
+	padding:5px;
+	text-shadow:1px 1px 5px black;
+}
+.n{
+	color: rgb(255, 255, 255)
+}
